@@ -1,0 +1,41 @@
+Iteration: 0 
+Joint Vector: [0.78539816,0.78539816,0.78539816] 
+End-Effector: 
+[[[-0.7071 -0.7071  0.     -0.    ]
+  [ 0.7071 -0.7071  0.      2.4142]
+  [ 0.      0.      1.      0.    ]
+  [ 0.      0.      0.      1.    ]]] 
+
+Iteration: 1
+Joint Vector: [0.90699437,0.63102224,0.65768216]
+End-Effector: 
+[[-0.585 -0.811  0.     0.064]
+ [ 0.811 -0.585  0.     2.598]
+ [ 0.     0.     1.     0.   ]
+ [ 0.     0.     0.     1.   ]]
+Error Twist Vb: [ 0.    , 0.    ,-0.    , 0.0009,-0.0156, 0.    ]
+Angular Error Magnitude: 0.0
+Linear Error Magnitude: 0.0156259399717265
+
+Iteration: 2
+Joint Vector: [0.92436524,0.58782983,0.68350369]
+End-Effector: 
+[[-0.585 -0.811  0.     0.076]
+ [ 0.811 -0.585  0.     2.608]
+ [ 0.     0.     1.     0.   ]
+ [ 0.     0.     0.     1.   ]]
+Error Twist Vb: [ 0.    , 0.    ,-0.    , 0.0003,-0.0004, 0.    ]
+Angular Error Magnitude: 0.0
+Linear Error Magnitude: 0.0005
+
+Iteration: 3
+Joint Vector: [0.9252402 ,0.58610608,0.68435248]
+End-Effector: 
+[[-0.585 -0.811  0.     0.076]
+ [ 0.811 -0.585  0.     2.608]
+ [ 0.     0.     1.     0.   ]
+ [ 0.     0.     0.     1.   ]]
+Error Twist Vb: [ 0., 0.,-0., 0., 0., 0.]
+Angular Error Magnitude: 0.0
+Linear Error Magnitude: 0.0
+
